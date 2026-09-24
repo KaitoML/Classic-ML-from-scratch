@@ -40,11 +40,6 @@ The exact scope may change as the project develops.
 
 This is primarily a learning project. The implementations are intentionally kept relatively simple and transparent rather than optimized for production use.
 
-## Requirements
-
-* Python 3.11+
-* NumPy
-
 ## Example
 
 ```python
